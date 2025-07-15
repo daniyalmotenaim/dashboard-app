@@ -433,7 +433,7 @@ export const customersGrid = [
 
 ];
 
-export const employeesGrid = [
+export const employessGrid = [
   { headerText: 'Employee',
     width: '150',
     template: gridEmployeeProfile,
@@ -488,7 +488,7 @@ export const links = [
         icon: <AiOutlineShoppingCart />,
       },
       {
-        name: 'employees',
+        name: 'employess',
         icon: <IoMdContacts />,
       },
       {
@@ -1481,7 +1481,7 @@ export const customersData = [
 
 ];
 
-export const employeesData = [
+export const employessData = [
   {
     EmployeeID: 1,
     Name: 'Nancy Davolio',

@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Calender = () => {
+const Calendar = () => {
   return (
     <div>Calendar</div>
   )
