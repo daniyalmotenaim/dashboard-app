@@ -52,7 +52,7 @@ const App = () => {
                             {/* PAGES */}
                             <Route path="/orders" element={<Orders/ >}/>
                             <Route path="/employess" element={<Employess/ >}/>
-                            <Route path="/customers" element={<customers/ >}/>
+                            <Route path="/customers" element={<Customers/ >}/>
 
                             {/* APPS */}
                             <Route path="/kanban" element={<Kanban/ >}/>
